@@ -1211,7 +1211,7 @@ export const WhatsAppLeadEngine: React.FC<{ defaultIndustry?: string }> = ({ def
               </div>
               <div>
                 <div className="text-[10px] text-slate-400">Direct WhatsApp Hotline</div>
-                <div className="text-xs font-bold text-white">+91 98765 43210 (Quick Reply)</div>
+                <div className="text-xs font-bold text-white">+91 8668181232 (Quick Reply)</div>
               </div>
             </a>
 
@@ -1879,7 +1879,7 @@ export default function App() {
               <div className="text-white font-bold text-xs uppercase tracking-wider">Contact</div>
               <p className="text-slate-400">Chennai, Tamil Nadu, India</p>
               <p className="text-slate-400">contact@payirwebs.com</p>
-              <p className="text-emerald-400 font-semibold">WhatsApp: +91 98765 43210</p>
+              <p className="text-emerald-400 font-semibold">WhatsApp: +91 8668181232</p>
             </div>
           </div>
 
